@@ -1,4 +1,4 @@
-# Dice App
+# Login Signup Page
 
 Login Signup Page built with Flutter.
 
