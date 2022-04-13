@@ -8,7 +8,7 @@ Login Signup Page built with Flutter.
 - CLick on each dice to roll separately.
 - Set State is used.
 - Dart Math Library used.
-- Dark Mode.
+
 
 ## Demonstration
 
