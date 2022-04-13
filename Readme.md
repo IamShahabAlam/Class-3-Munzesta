@@ -8,7 +8,7 @@ Login Signup Page built with Flutter.
 - Gradient Colored Theme.
 - Gradient Colored Button.
 - Round Cornered Container.
-- Asset Image used.
+- Picture imported by assetImage.
 - TextField Properties used.
 
 
