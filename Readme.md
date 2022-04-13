@@ -4,10 +4,8 @@ Login Signup Page built with Flutter.
 
 ## Features
 
-- Click on Button to roll both the dice.
-- CLick on each dice to roll separately.
-- Set State is used.
-- Dart Math Library used.
+- Simple Login Page.
+- 
 
 
 ## Demonstration
